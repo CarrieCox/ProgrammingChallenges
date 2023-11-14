@@ -10,6 +10,6 @@ This role primarily uses data visualization platforms and SQL. So this assessmen
 
 I was moved along in the interview process after this assessment. The next step was a technical interivew where I explained my code from this repository.
 
+## Files
 
-
-
+Within the sql-assessment folder, there are 5 files. The README.md file has all of the questions written out and was provided by the hiring company. There are three csv files that I uploaded into Oracle Apex to query from. The SQL Assessment PMG.sql file contains the questions from this assessment as well as my queries. 
