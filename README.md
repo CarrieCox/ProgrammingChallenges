@@ -1,32 +1,15 @@
 # PMG Programming Challenges
 
-A few small programming challenges that let us see how job candidates work.
+This repository contains files used for a SQL technical assessment for a job position's interview process. This assessment consisted of using SQL to derive insights on various marketing campaigns and how well they are performing. All the queries only required basic commands in SQL, however I did choose to use a CTE for the last problem in order to show more advanced skills.
 
-## What Languages Can I Use?
+## Language Used
 
-Just about anything you like, but we work mostly with...
+This role primarily uses data visualization platforms and SQL. So this assessment was completed using SQL in Oracle APEX.
 
-- PHP
-- JavaScript (node & in browser)
-- Python
-- Go
+## Result of Assessment
 
-## How do I ask questions?
+I was moved along in the interview process after this assessment. The next step was a technical interivew where I explained my code from this repository.
 
-[Open an issue](https://github.com/AgencyPMG/ProgrammingChallenges/issues).
 
-## How long should I spend on this?
 
-Take your time and do your best work. The code you produce here should be a very
-good indicator of how you would code in a production environment.
-If you find a problem is taking a long time, let us know!
-Chances are it's probably too big for this set of challenges.
 
-## Can I use third-party libraries?
-
-Sure! We're interested in seeing how you work, treat this challenge like any
-other project.
-
-## How do I submit my answer?
-
-Follow the instructions you recieved for how to submit. 
